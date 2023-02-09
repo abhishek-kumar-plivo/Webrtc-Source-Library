@@ -1,0 +1,20 @@
+{
+  "format_version": "1.1",
+  "package_name": "gn/gn/linux-arm64",
+  "version_file": ".versions/gn.cipd_version",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "gn",
+      "size": 6456944,
+      "executable": true,
+      "hash": "kEqkeSOPwhRTmh91yh4P67HR8lQ_x8pSTkx3ffSbJdcC"
+    },
+    {
+      "name": ".versions/gn.cipd_version",
+      "size": 106,
+      "hash": "uL5yau7ds6IkNwhgwoP4wmcFaYKLLT0wa1SRY84Q0vkC"
+    }
+  ]
+}
